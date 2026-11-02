@@ -1,2 +1,3 @@
-# kpais-e2e-cicd-20261102
-Disposable CI/CD fixture for local kind and Harbor
+# kpais CI/CD fixture
+
+Disposable Python and web samples for tests-pai-slee and local kind.
